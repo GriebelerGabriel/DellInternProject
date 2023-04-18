@@ -1,0 +1,6 @@
+                  ARACAJU;    BELEM;      BELO HORIZONTE;     BRASILIA;       CAMPO GRANDE;
+ARACAJU              0;       2079;           1578;               1652;           2765;
+BELEM               2079;       0;            2824;               2120;           2942;
+BELO HORIZONTE;     1578;     2824;             0;                716;            1453;
+BRASILIA;           1650;     2140;            741;                0;             1134;
+CAMPO GRANDE;       2764;     2942;           1453;               1134;             0;
